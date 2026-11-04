@@ -13,16 +13,14 @@ I'm a **Flutter developer from Uzbekistan**, building mobile apps and reusable t
 **Flutter · Dart · iOS · Android**  
 Mobile interfaces, API integration, maps, localization, and reusable widgets. I also use **Python** for bot projects.
 
-### Selected work
+### Product work
 
-| Project | Explore |
-| :--- | :--- |
-| **[Uzbekistan Car Number Picker](https://github.com/Zoyidov/uz_car_number_picker)** | A customizable Flutter license plate picker with regional selection and Uzbek, Russian, and English support. [View package →](https://pub.dev/packages/uz_car_number_picker) |
-| **[Hisobchi](https://github.com/Zoyidov/hisobchi_uz)** | A Flutter application project. Explore the source, app structure, and ongoing development. |
-| **[Google Map](https://github.com/Zoyidov/Google_Map)** | A Dart project focused on maps. |
-| **[Chateo](https://github.com/Zoyidov/chateo_app)** | A Flutter app project from my mobile development work. |
-| **[Weather App](https://github.com/Zoyidov/weather_app)** | A weather application built with Dart. |
-| **[Rendo Support Bot](https://github.com/Zoyidov/RendoSupportBot)** | A Python bot project. |
+Most of my product work lives in private repositories. This profile shares selected public tools and examples; it is not a complete catalog of my mobile development work.
+
+### Open source
+
+**[Uzbekistan Car Number Picker](https://github.com/Zoyidov/uz_car_number_picker)**  
+A customizable Flutter license plate picker with regional selection and Uzbek, Russian, and English support. [View on pub.dev →](https://pub.dev/packages/uz_car_number_picker)
 
 ### Around here
 
