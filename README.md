@@ -13,9 +13,16 @@ I'm a **Flutter developer from Uzbekistan**, building mobile apps and reusable t
 **Flutter · Dart · iOS · Android**  
 Mobile interfaces, API integration, maps, localization, and reusable widgets. I also use **Python** for bot projects.
 
-### Product work
+### Selected products
 
-Most of my product work lives in private repositories. This profile shares selected public tools and examples; it is not a complete catalog of my mobile development work.
+My main product repositories are private. The links below are public showcases with an overview of each project, without exposing application source code.
+
+| Product | What it does | Focus |
+| :--- | :--- | :--- |
+| **[Bron.uz](https://github.com/Zoyidov/bron-uz-showcase)** | Restaurant discovery and reservations for iOS and Android. | Search, maps, booking flows, notifications, localization. |
+| **[Barberix](https://github.com/Zoyidov/barberix-showcase)** | Appointment booking and staff scheduling for barbershops. | Customer booking, schedules, client and team workflows. |
+| **[Dogi POS](https://github.com/Zoyidov/dogi-pos-showcase)** | A point-of-sale project for desktop and mobile. | POS interfaces, API integration, local persistence, order workflows. |
+| **[Qadrdon](https://github.com/Zoyidov/qadrdon-showcase)** | A shared record of wedding contributions among classmates. | Contribution records, confirmations, change history. |
 
 ### Open source
 
@@ -28,7 +35,7 @@ A customizable Flutter license plate picker with regional selection and Uzbek, R
 - Sharing reusable Flutter components.
 - Keeping practical examples and experiments alongside product work.
 
-**O‘zbekcha:** Flutter orqali iOS va Android ilovalar yarataman. Loyihalarim va ochiq kodli ishlarim bilan yuqoridagi havolalar orqali tanishishingiz mumkin.
+**O‘zbekcha:** Flutter orqali iOS va Android ilovalar yarataman. Asosiy loyihalarim — Bron.uz, Barberix, Dogi POS va Qadrdon. Yuqoridagi havolalarda kodlarini ochmasdan tayyorlangan taqdimotlar bor.
 
 ---
 
